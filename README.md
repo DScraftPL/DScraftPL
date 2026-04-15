@@ -1,14 +1,36 @@
-preview
-<h1 align="center">Hi 👋, I'm Wiacker</h1>
-<h3 align="center">Student at Politechnika Lubelska 😎</h3>
+## 🚀 About Me
+<!-- - 💼 Currently working on: _[your current project or role]_ -->
+- 🎓 Education: Graduated as Engineer at Lublin University of Technology
+- 💯 Currently: Started Master's at Lublin University of Technology
+- 🌱 Learning: _Python, TensorFlow, LangChain/LangGraph_
 
-- 🌱 I’m currently learning **C++**
+## 🛠️ Tech Stack
+- **Languages:** _TypeScript/JavaScript, Python, SQL, Haskell, C++_
+- **Frameworks & Libraries:** _React.js, Express.js, Node.js, Vite TensorFlow, LangChain_
+- **Tools & Platforms:** _Git, Docker_
+- **Databases:** _PostgreSQL, MySQL, Redis, MongoDB_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/scraftd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scraftd" height="30" width="40" /></a>
-<a href="https://instagram.com/przegralemkontowhuncie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="przegralemkontowhuncie" height="30" width="40" /></a>
-</p>
+## 🧠 Currently Exploring
+- AI Agents & LLMs
+- Machine Learning
+- Web Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+## 📂 Featured Projects
+### 🔹 Online Auction System
+- 📝 Description: _My final engineering project, it is an real-time auction system based in TS_ 
+- 🛠️ Tech: _TypeScript, React.js, Express.js, PostgreSQL, Redis_
+- 🔗 Repo: [_Repo_](https://github.com/DScraftPL/System-Aukcji)
+
+### 🔹 Comparison of Transport and Covid Data
+- 📝 Description: _Project made for university classes, it compares data from USA, starting at 2019_
+- 🛠️ Tech: _TypeScript, React.js, Express.js, MongoDB_
+- 🔗 Repo: [_Repo_](https://github.com/DScraftPL/IS_Labs_Final)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DScraftPL&show_icons=true)
+
+## 📫 Contact Me
+- 📧 Email: _kacperwiacek@protonmail.com_
+
+---
