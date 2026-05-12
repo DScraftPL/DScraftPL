@@ -27,9 +27,6 @@
 - 🛠️ Tech: _TypeScript, React.js, Express.js, MongoDB_
 - 🔗 Repo: [_Repo_](https://github.com/DScraftPL/IS_Labs_Final)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DScraftPL&show_icons=true)
-
 ## 📫 Contact Me
 - 📧 Email: _kacperwiacek@protonmail.com_
 
