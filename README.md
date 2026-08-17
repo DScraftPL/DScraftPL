@@ -2,7 +2,7 @@
 <!-- - 💼 Currently working on: _[your current project or role]_ -->
 - 🎓 Education: Graduated as Engineer at Lublin University of Technology
 - 💯 Currently: Started Master's at Lublin University of Technology
-- 🌱 Learning: _Python, TensorFlow, LangChain/LangGraph_
+- 🌱 Learning: _Python, FastAPI, AWS, TensorFlow, LangChain/LangGraph_
 
 ## 🛠️ Tech Stack
 - **Languages:** _TypeScript/JavaScript, Python, SQL, Haskell, C++_
@@ -12,7 +12,7 @@
 
 ## 🧠 Currently Exploring
 - AI Agents & LLMs
-- Machine Learning
+- AWS Cloud
 - Web Development
 
 
