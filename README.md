@@ -6,8 +6,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** _TypeScript/JavaScript, Python, SQL, Haskell, C++_
-- **Frameworks & Libraries:** _React.js, Express.js, Node.js, Vite TensorFlow, LangChain_
-- **Tools & Platforms:** _Git, Docker_
+- **Frameworks & Libraries:** _React.js, FastAPI, Express.js, Node.js, Vite, TensorFlow, LangChain_
+- **Tools & Platforms:** _Git, Docker, AWS_
 - **Databases:** _PostgreSQL, MySQL, Redis, MongoDB_
 
 ## 🧠 Currently Exploring
